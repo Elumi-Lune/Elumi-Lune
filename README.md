@@ -2,6 +2,6 @@
   <img src="./banniere.png" alt="elumiLune banner" width="100%">
 </p>
 
-<h3 align="center">
+<h2 align="center">
   🌙 Developer by day, dreamer by night, always building something new ✨
-</h3>
+</h2>
